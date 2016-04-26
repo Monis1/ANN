@@ -1,0 +1,5 @@
+C:\Users\Monis\documents\visual studio 2013\Projects\ANN\ANN\obj\Debug\ANN.csprojResolveAssemblyReference.cache
+C:\Users\Monis\documents\visual studio 2013\Projects\ANN\ANN\bin\Debug\ANN.exe
+C:\Users\Monis\documents\visual studio 2013\Projects\ANN\ANN\bin\Debug\ANN.pdb
+C:\Users\Monis\documents\visual studio 2013\Projects\ANN\ANN\obj\Debug\ANN.exe
+C:\Users\Monis\documents\visual studio 2013\Projects\ANN\ANN\obj\Debug\ANN.pdb
